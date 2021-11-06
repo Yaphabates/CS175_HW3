@@ -8,6 +8,6 @@
 
   
   
-  <img src="C:\Users\www18\Desktop\示意图.jpg" alt="示意图" style="zoom:50%;" />
+  <img src=https://github.com/Yaphabates/CS175_HW3/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg alt="示意图" style="zoom:50%;" />
   
   
